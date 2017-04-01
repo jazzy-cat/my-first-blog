@@ -1,0 +1,25 @@
+
+Command prompts (in Terminal)
+cd    home directory
+
+cd     change directory
+pwd     print working directory (what folder am I currently working in)
+ls     list current directory (what's in the folder)
+cd ..     move up one level in your directory
+cd -     go back into last directory
+mkdir      make directory
+always use a space in between commands
+click the up arrow - shortcut to use the same command as before
+
+
+To change to Python, type python3
+      will see >>>
+      to exit out of python and back in to command, type exit()
+
+
+str function converts things to string
+int function converts things to integers
+print ()   displays text without quotation marks
+list    in square brackets
+    .append   add something to list
+    .pop     delete something to list
